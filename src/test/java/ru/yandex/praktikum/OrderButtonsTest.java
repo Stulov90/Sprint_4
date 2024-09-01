@@ -47,7 +47,7 @@ public class OrderButtonsTest {
     }
 
     @Test
-    public void LowerOrderButtonTest() {
+    public void lowerOrderButtonTest() {
         MainPage mainPage = new MainPage(driver);
         mainPage.openMainPage();
         mainPage.clickAcceptCookie();
